@@ -4,6 +4,6 @@
  + TADS Uni9
 
 ## Experiência
-   + Jornal Valor Econômico
-## *alooo*
-## */ai mds
+   + **Jornal Valor Econômico**
+   
+
