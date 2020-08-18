@@ -1,8 +1,3 @@
-# repo01
-My first repository
-
-# repositório
-meu primeiro repositório
 
 ## Formação acadêmica
  + Aluno
@@ -10,3 +5,5 @@ meu primeiro repositório
 
 ## Experiência
    + Jornal Valor Econômico
+## *alooo*
+## */ai mds
